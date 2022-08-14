@@ -14,6 +14,7 @@ namespace DPRN3_U2_A1_ESMC
         public static MySqlConnection conexBD()
         {
             //Datos de conexión.
+            //Probando cambio para prueba con git
             string server = "127.0.0.1";
             string database = "flotilla";
             string Uid = "root";
